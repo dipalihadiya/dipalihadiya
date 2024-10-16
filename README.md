@@ -28,7 +28,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=node,dart,firebase,github,git,postman,bootstrap,tailwind,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=node,github,git,postman,bootstrap,tailwind,xd&perline=5)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)

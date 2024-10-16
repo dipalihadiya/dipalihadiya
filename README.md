@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: dipalihadiya0206@gmail.com
-- 😄 My website: https://dipalihadiya
+- 😄 My website: https://github.com/dipalihadiya/dipalihadiya
+- 
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:

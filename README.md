@@ -24,5 +24,5 @@ I am a passionate backend development student with a strong interest in building
 - Optimizing server-side performance
   
 ### Contact Me
-- dipalihadiya@gmail.com
+- dipalihadiya0206@gmail.com
 - https://github.com/dipalihadiya

@@ -1,12 +1,30 @@
- <h1 align="center">Hi 👋, I'm Dipali </h1>
+# Hello, I'm Dipali 👋 
 
-- 🔭 I’m currently working on bake end devloper
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: dipalihadiya0206@gmail.com
-- 😄 My website: https://github.com/dipalihadiya/dipalihadiya
-- 
-- ⚡ Fun fact: I'm comming to teen
+## About Me
+I am a passionate backend development student with a strong interest in building scalable and efficient server-side applications. I enjoy solving complex problems and continuously learning about new backend technologies and frameworks.
+
+## Technologies I Work With
+- **Frontend**: HTML, CSS, SASS, JQuery, JavaScript, EJS, Bootstrap, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB
+- **Other Tools**: Git, Multer, Mongoose
+
+## Interests
+- Backend development
+- Learning new backend frameworks and databases
+- Optimizing server-side performance
+  
+## Contact Me
+- Email: [dipalihadiya0206@gmail.com](mailto:dipalihadiya0206@gmail.com)
+- GitHub: [github.com/dipalihadiya](https://github.com/dipalihadiya)
+
+## Technologies & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
   
 ### Connect with me:
 <div id="badges">

@@ -29,11 +29,6 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=node,github,git,postman,bootstrap,tailwind,https://www.mongodb.com/)](https://skillicons.dev)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
-
 <br>
 ⭐️ https://github.com/dipalihadiya
 

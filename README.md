@@ -17,6 +17,7 @@ I am a passionate backend development student with a strong interest in building
 ## Contact Me
 - Email: [dipalihadiya0206@gmail.com](mailto:dipalihadiya0206@gmail.com)
 - GitHub: [github.com/dipalihadiya](https://github.com/dipalihadiya)
+- Linkedin:[dipali-hadiya-4b3584320/](https://www.linkedin.com/in/dipali-hadiya-4b3584320/)
 
 ## Technologies & Tools
 

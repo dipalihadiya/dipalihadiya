@@ -1,5 +1,8 @@
 # Hello, I'm Dipali 👋 
 
+## About Me
+I am Dipali, a backend development student passionate about building scalable and efficient server-side applications. Skilled in Node.js, Express.js, and MongoDB, I enjoy solving complex problems and learning new technologies. My goal is to create impactful and optimized backend solutions.
+
 ## Technologies I Work With
 - **Frontend**: HTML, CSS, SASS, JQuery, JavaScript, EJS, Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js
